@@ -1,0 +1,30 @@
+.poze{
+	width:39px;
+}
+.logo{
+	 padding:5px 14px;
+	 align-content: center;
+	 
+}
+.flower{
+padding:0px 10px;
+font-size: 68px;
+}
+.aranj{
+	float: left;
+}
+.drept{
+	float: right;
+}
+
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: lavender;
+   color: grey;
+   text-align: center;
+   padding: 10px 0px;
+}
